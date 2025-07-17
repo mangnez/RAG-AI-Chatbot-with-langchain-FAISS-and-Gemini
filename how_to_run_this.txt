@@ -1,0 +1,19 @@
+##Running the App
+
+jupyter notebook XYZ_chatbot.ipynb
+
+#or convert to Python script if needed:
+
+jupyter nbconvert --to script XYZ_chatbot.ipynb
+python XYZ_chatbot.py
+
+
+##Sample Use Case
+
+Upload your document and ask:
+
+"What are the contents of this document?"
+"Is this policy applicable to my region?"
+
+
+
